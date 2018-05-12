@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '878'
     url: http://www.gutenberg.org/2009/agents/878
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15183#The-Tragedy-of-the-Chain-PierEveryday-Life-Library-No.-3
 gutenberg_issued: '2005-02-26'
 gutenberg_type: Text
 identifiers:
