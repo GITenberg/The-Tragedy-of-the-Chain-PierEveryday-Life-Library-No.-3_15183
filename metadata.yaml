@@ -1,0 +1,32 @@
+_repo: The-Tragedy-of-the-Chain-PierEveryday-Life-Library-No.-3_15183
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 15183-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Brame, Charlotte M.
+    aliases:
+    - Clay, Bertha M.
+    - Brame, Charlotte Mary
+    - Braeme, Charlotte Monica
+    birthdate: 1836
+    deathdate: 1884
+    gutenberg_agent_id: '878'
+    url: http://www.gutenberg.org/2009/agents/878
+description: ''
+gutenberg_issued: '2005-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15183'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fiction'
+title: 'The Tragedy of the Chain Pier
+
+  Everyday Life Library No. 3'
+url: http://www.gutenberg.org/ebooks/15183
